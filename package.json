@@ -1,7 +1,7 @@
 {
   "name": "User auth ",
   "version": "1.0.0",
-  "description": "Express tutorial",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server",
